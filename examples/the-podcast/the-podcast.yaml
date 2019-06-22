@@ -1,0 +1,16 @@
+---
+podcast:
+  title: The Podcast
+  subtitle: The podcast subtitle.
+  description: The podcast description.
+  author:
+    name: John Doe
+    email: john@doe.com
+  episodes:
+    - title: Episode 1
+      description: "Episode 1: first test."
+      audio_file: episode1.mp3
+    - title: Episode 2
+      description: "Episode 2: second test."
+      audio_file: episode2.mp3
+  base_url: https://the-podcast.com
