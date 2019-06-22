@@ -1,6 +1,5 @@
 """Console script for podenco."""
 
-import sys
 import click
 
 from podenco.use_cases.podcast_generate import PodcastGenerate
@@ -23,10 +22,6 @@ def generate(filename, output_path):
 @click.group()
 def main(args=None):
     """Console script for podenco."""
-    return 0
 
 
 main.add_command(generate)
-
-if __name__ == "__main__":
-    sys.exit(main())  # pragma: no cover

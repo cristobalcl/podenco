@@ -31,6 +31,7 @@ class Testpodenco(unittest.TestCase):
         help_result = runner.invoke(cli.main, ["--help"])
         assert help_result.exit_code == 0
         assert "--help  Show this message and exit." in help_result.output
+        assert "generate  Generate static site file structure." in help_result.output
 
     @patch("podenco.cli.PodcastGenerate")
     def test_cli_generate(self, MockPodcastGenerate):
