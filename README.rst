@@ -9,6 +9,9 @@ Podenco
 .. image:: https://img.shields.io/travis/cristobalcl/podenco.svg
         :target: https://travis-ci.org/cristobalcl/podenco
 
+.. image:: https://codecov.io/gh/cristobalcl/podenco/branch/master/graph/badge.svg
+        :target: https://codecov.io/gh/cristobalcl/podenco
+
 .. image:: https://readthedocs.org/projects/podenco/badge/?version=latest
         :target: https://podenco.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
