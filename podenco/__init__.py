@@ -3,5 +3,5 @@
 """Top-level package for Podenco."""
 
 __author__ = """Cristóbal Carnero Liñán"""
-__email__ = 'ccarnerolinan@gmail.com'
-__version__ = '0.1.0'
+__email__ = "ccarnerolinan@gmail.com"
+__version__ = "0.0.1"
