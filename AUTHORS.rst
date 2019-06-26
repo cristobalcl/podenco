@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Cristóbal Carnero Liñán <ccarnerolinan@gmail.com>
+* Cristóbal Carnero Liñán <ccarnerolinan@gmail.com> http://cristob.al
 
 Contributors
 ------------
