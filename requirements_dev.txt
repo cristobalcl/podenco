@@ -8,3 +8,4 @@ coverage==4.5.1
 Sphinx==1.8.1
 twine==1.12.1
 pre-commit==1.17.0
+mypy=0.711
